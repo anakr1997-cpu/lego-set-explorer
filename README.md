@@ -3,6 +3,10 @@
 ## Project Overview
 Developed an interactive Power BI dashboard to explore 4,385 LEGO sets, focusing on product pricing, piece counts, and set characteristics. The dashboard allows users to filter and compare products through interactive visualizations.
 
+## Dashboard Preview
+
+![LEGO Dashboard](Lego%20dashboard.png)
+
 ## Tools & Skills
 - **Power BI:** Dashboard development and data visualization
 - **DAX:** Calculated measures and dynamic KPIs
